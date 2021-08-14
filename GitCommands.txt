@@ -1,0 +1,5 @@
+Git Init --> Initialization Git Repo
+Git add  --a -> Add all file in the stagging state
+git commit -m -> take a snapshot 
+git log -> print all the commits
+git status - > Verify the status of repository
