@@ -3,6 +3,8 @@ Git add  --a -> Add all file in the stagging state
 git commit -m -> take a snapshot 
 git log -> print all the commits
 git status - > Verify the status of repository
+git remote add origin(any name)<repo link>
+git push –u origin/master
 rm –rf (Linux command to delete the content which is present in the folder)
 Example
 rm –rf .git
@@ -18,3 +20,5 @@ git mv <older file name><new file name> --> Renaming file name
 
 git checkout --<file name> match the file with previous commit state
 git checkout -f --> move whole repo to previous commit
+git checkout -b <branch name> - > Create new branch
+git checkout master -> move to master branch
